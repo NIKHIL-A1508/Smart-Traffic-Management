@@ -1,4 +1,5 @@
 SMART TRAFFIC MANAGEMENT SYSTEM
+
 A desktop application that detects vehicles in uploaded traffic images and simulates a smart traffic light. The green signal time adjusts based on vehicle count using YOLOv8.
 
 ---
@@ -96,4 +97,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you'd like this as a downloadable `.txt` or `.md` file.
+
